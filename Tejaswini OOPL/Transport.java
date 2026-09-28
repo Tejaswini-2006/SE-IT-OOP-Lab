@@ -1,4 +1,4 @@
-/*Nandini Pachare Roll no 34 SE IT B 
+/* SE IT B 
  * Practical 5 
  * Design and develop a context for given case study and implement an interface for Vehicles. 
  * Consider the example of vehicles like bicycle, car and bike. All Vehicles have common
