@@ -1,4 +1,4 @@
-/* Nandini Pachare Roll no. 34  IT B 
+/*  IT B 
  * Implement a generic program using any collection class to count the number
  *  of elements in a collection that have a specific property such as even 
  * numbers, odd number, prime number and palindromes.
