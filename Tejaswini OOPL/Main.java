@@ -1,4 +1,4 @@
-/* Nandini Pachare Roll no 34  SE IT B 
+/*  SE IT B 
  * Practical 3 
  * Design and develop inheritance for a given case study, identify objects and relationships and implement inheritance wherever applicable. 
  * Employee class hasEmp_name, Emp_id, Address ,Mail_id, and Mobile_no as members. Inherit the classes: Programmer, Team Lead, 
