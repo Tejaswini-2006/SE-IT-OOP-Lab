@@ -1,4 +1,4 @@
-/* Nandini Pachare roll no 34 SE IT B c:\Users\tejaw\AppData\Local\Packages\MicrosoftWindows.Client.Core_cw5n1h2txyewy\TempState\ScreenClip\{7E477293-9E38-4515-BDCB-2E2AE392CB12}.png
+/*  SE IT B c:\Users\tejaw\AppData\Local\Packages\MicrosoftWindows.Client.Core_cw5n1h2txyewy\TempState\ScreenClip\{7E477293-9E38-4515-BDCB-2E2AE392CB12}.png
  * Implement a program to handle Arithmetic exception, Array Index Out of Bounds. 
  * The user enters two numbers Num1 and Num2. The division of Num1 and Num2 is displayed. 
  * If Num1 and Num2 are not integers, the program would throw a Number Format Exception.
