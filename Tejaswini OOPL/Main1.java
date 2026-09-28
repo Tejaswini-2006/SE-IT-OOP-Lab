@@ -1,4 +1,4 @@
-/* Nandini Pachare Roll no 34 
+/*
 SE IT B 
  * Practical 4 
  * Design a base class shape with two double type values and member functions to input the data and compute_area() for calculating area of shape. 
