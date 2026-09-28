@@ -1,4 +1,4 @@
-//nandini Pachare Roll No. 34 SEITB
+//Tejaswini Rakhunde SEITB
 import java.util.Scanner;
 
 class Complex_num {
