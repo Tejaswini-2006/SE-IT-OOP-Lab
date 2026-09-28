@@ -1,4 +1,4 @@
-/* Nandini Pachare Roll no. 34 SEIT B 
+/* SEIT B 
  * Practical 2 
  * Identify commonalities and differences between Publication, Book and Magazine classes. 
  * Title, Price, Copies are common instance variables and saleCopy is common method. 
