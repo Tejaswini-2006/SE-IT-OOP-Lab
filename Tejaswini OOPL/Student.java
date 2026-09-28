@@ -1,4 +1,4 @@
-/* Nandini Pachare Roll No 34 SEIT B 
+/*  SEIT B 
  * Implement a program for maintaining a database of student records using Files.
  * Student has Student_id,name, Roll_no, Class, marks and address.
  * Display the data for few students.
